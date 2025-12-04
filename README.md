@@ -22,7 +22,7 @@ According to **ESOMAR (European Society for Opinion and Marketing Research)**:
 > “Reliability is the degree to which a measurement system produces stable and consistent results over time and across researchers, respondents and environments.”
 
 
-📝 **Goal of reliability is not to eliminate all error — but to minimize avoidable error so insights remain stable across replications.**
+📝 **Goal of reliability is not to eliminate all error - but to minimize avoidable error so insights remain stable across replications.**
 
 ---
 
@@ -50,11 +50,11 @@ According to **ESOMAR (European Society for Opinion and Marketing Research)**:
 | Over/under production | **18–42% volume mismatch** |
 | Incorrect brand-driver strategy | **2–9 quarters of delayed growth** |
 
-❗ Bad research is not just academically weak — it is **commercially expensive**.
+❗ Bad research is not just academically weak - it is **commercially expensive**.
 
 ---
 
-## 🧠 Where Reliability Breaks — 12 Real-World Sources of Error
+## 🧠 Where Reliability Breaks - 12 Real-World Sources of Error
 
 | Category | Example Result |
 |----------|----------------|
@@ -71,7 +71,7 @@ According to **ESOMAR (European Society for Opinion and Marketing Research)**:
 | Anchoring Bias | Benchmarks shared upfront → converged scores |
 | Halo Effect | Love for one feature → inflated overall rating |
 
-⛔ **Bias management is not post-analysis cleanup — it is core to research design.**
+⛔ **Bias management is not post-analysis cleanup - it is core to research design.**
 
 ---
 
@@ -89,7 +89,7 @@ According to **ESOMAR (European Society for Opinion and Marketing Research)**:
 
 ---
 
-## 🧪 Reliability in Applied Consumer Research — Field Tactics That Work
+## 🧪 Reliability in Applied Consumer Research - Field Tactics That Work
 
 | Study Type | Reliability Enhancer |
 |------------|----------------------|
@@ -101,7 +101,7 @@ According to **ESOMAR (European Society for Opinion and Marketing Research)**:
 | Brand Equity | Reverse-coded items to detect satisficing |
 | Shopper Research | Shelf context simulation vs isolated concepts |
 
-🔁 **Insights become reliable when multiple methods converge — triangulation.**
+🔁 **Insights become reliable when multiple methods converge - triangulation.**
 
 ---
 
@@ -121,7 +121,7 @@ but failed to predict **liking in the real selling environment**.
 
 ---
 
-## 🗂 Reliability Checklist — (Aligned with ESOMAR Compliance)
+## 🗂 Reliability Checklist - (Aligned with ESOMAR Compliance)
 
 | Stage | Reliability Must-Do |
 |-------|---------------------|
@@ -151,15 +151,14 @@ but failed to predict **liking in the real selling environment**.
 
 ### ⭐ Like this work?
 If this article contributed to your learning,  
-please **leave a ⭐ on this repository** — it motivates us to keep sharing **open-source knowledge for the research community**.
+please **leave a ⭐ on this repository** - it motivates us to keep sharing **open-source knowledge for the research community**.
 
 ---
 
 📌 **Authored by:** *AnveMark Research Pvt. Ltd.*  
 📬 **Contact:** anvemark@gmail.com  
-🔗 **Website:** https://sites.google.com/anvem.in/anvemark/home  
+🔗 **Website:** https://www.anvem.in/home
 🔗 **LinkedIn:** https://www.linkedin.com/company/anvemark  
 
 
-Mathematically:
 
