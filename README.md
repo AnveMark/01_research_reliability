@@ -1,6 +1,6 @@
 ---
 
-# 🧠 What is “Research Reliability”? - Practical Methods to Reduce Bias (With 2025 ESOMAR Guidelines, Thresholds & Real Industry Practices)
+# 🧠 What is “Research Reliability”? — Practical Methods to Reduce Bias (With 2025 ESOMAR Guidelines, Thresholds & Real Industry Practices)
 
 > **If a research finding cannot be replicated, it cannot be relied on for business decisions.**  
 > Reliability is the invisible line that separates **insight** from **guesswork**.
@@ -16,12 +16,13 @@ With this level of impact, **unreliable research = high-cost error**.
 
 ---
 
-## 🔍 What Reliability Really Means - Global Research Standards
+## 🔍 What Reliability Really Means — Global Research Standards
 
 **ESOMAR (European Society for Opinion and Marketing Research)** defines reliability as:
 
 > “The degree to which a measurement system produces stable and consistent results over time and across researchers, respondents, and environments.”
 
+In statistical form:
 
 The goal of reliability ≠ **eliminating all error**.  
 The goal = **reducing avoidable error so insights remain stable across replications**.
