@@ -33,7 +33,7 @@ According to **ESOMAR (European Society for Opinion and Marketing Research)**:
 | Transparency | Instruments, sample, procedures, and biases must be openly documented |
 | Replicability | Study must be designed so another researcher can repeat it and get similar results |
 | Standardisation | Protocol consistency across geos, modes & interviewers |
-| Data Integrity | No distorted measurement — neutral questions & realistic stimulus |
+| Data Integrity | No distorted measurement - neutral questions & realistic stimulus |
 | Respondent Protection | No pressure or inducement to give socially desirable answers |
 | Disclosure of Limitations | Reliability risks and uncertainty must be reported |
 
@@ -157,7 +157,7 @@ please **leave a ⭐ on this repository** - it motivates us to keep sharing **op
 
 📌 **Authored by:** *AnveMark Research Pvt. Ltd.*  
 📬 **Contact:** anvemark@gmail.com  
-🔗 **Website:** https://www.anvem.in/home
+🔗 **Website:** https://www.anvem.in/home 
 🔗 **LinkedIn:** https://www.linkedin.com/company/anvemark  
 
 
