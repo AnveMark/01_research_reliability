@@ -1,4 +1,4 @@
-# 🧠 What is “Research Reliability”? — Practical Methods to Reduce Bias  
+# 🧠 What is “Research Reliability”? - Practical Methods to Reduce Bias  
 *(With 2025 ESOMAR Guidelines, Thresholds & Real Industry Practices)*
 
 > **If a research finding cannot be replicated, it cannot be relied on for business decisions.**  
@@ -15,7 +15,7 @@ With this level of impact, **unreliable research = high‑cost error**.
 
 ---
 
-## 🔍 What Reliability Really Means — In Global Research Standards
+## 🔍 What Reliability Really Means - In Global Research Standards
 
 According to the 2025 ESOMAR Code:
 
@@ -38,7 +38,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 | **Transparency**             | Instruments, sampling, procedures, and any biases must be openly documented         |
 | **Replicability**            | Study must be designed so another researcher can rerun it and obtain similar results |
 | **Standardisation**          | Protocols must be consistent across geographies, data‑collection modes, and teams   |
-| **Data Integrity**           | Measurement must be neutral — no leading questions, no misleading stimuli          |
+| **Data Integrity**           | Measurement must be neutral - no leading questions, no misleading stimuli          |
 | **Respondent Protection**    | No pressure, inducement, or coercion; respect respondent comfort and consent         |
 | **Disclosure of Limitations**| Any reliability risks or uncertainty must be explicitly reported                    |
 
@@ -46,7 +46,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 
 ---
 
-## 🧠 Where Reliability Breaks — 12 Real‑World Sources of Error
+## 🧠 Where Reliability Breaks - 12 Real‑World Sources of Error
 
 | Category                 | Example Result                                         |
 |--------------------------|--------------------------------------------------------|
@@ -63,7 +63,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 | Anchoring Bias           | Showing benchmarks → converged/biased answers         |
 | Halo Effect              | One liked attribute → inflated overall product rating |
 
-⛔ **Bias management must be treated as part of research design — not just post-analysis cleanup.**
+⛔ **Bias management must be treated as part of research design - not just post-analysis cleanup.**
 
 ---
 
@@ -81,7 +81,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 
 ---
 
-## 🧪 Reliability in Applied Consumer Research — Field Tactics That Work
+## 🧪 Reliability in Applied Consumer Research - Field Tactics That Work
 
 | Study Type         | Reliability Enhancer                                                  |
 |--------------------|------------------------------------------------------------------------|
@@ -112,7 +112,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 
 ---
 
-## 🗂 Reliability Checklist — (Aligned with 2025 ESOMAR Standards)
+## 🗂 Reliability Checklist - (Aligned with 2025 ESOMAR Standards)
 
 | Stage               | Key Action to Ensure Reliability |
 |---------------------|----------------------------------|
@@ -122,10 +122,10 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 | Stimulus / Context  | Use realistic product / context; avoid idealized stimuli |
 | Fieldwork Protocol  | Standardize mode, instructions, and administration method |
 | Data Cleaning       | Remove speeders, flat-liners, straight-line respondents |
-| Reliability Testing | Compute Cronbach’s Alpha, Kappa, test–retest or alternate-form tests, where relevant |
+| Reliability Testing | Compute Cronbach’s Alpha, Kappa, test-retest or alternate-form tests, where relevant |
 | Reporting           | Disclose limitations, replicability constraints, and error margins |
 
-✅ If a study cannot be replicated under similar conditions — it **does not meet 2025 ESOMAR reliability standards**.
+✅ If a study cannot be replicated under similar conditions - it **does not meet 2025 ESOMAR reliability standards**.
 
 ---
 
@@ -143,7 +143,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 
 ### ⭐ If This Helped You  
 If you found this article useful —  
-**please leave a star ⭐ on this repository** — it motivates us to continue publishing **open‑source research knowledge for the global community**.
+**please leave a star ⭐ on this repository** - it motivates us to continue publishing **open‑source research knowledge for the global community**.
 
 ---
 
