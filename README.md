@@ -155,10 +155,12 @@ please **leave a ⭐ on this repository** - it motivates us to keep sharing **op
 
 ---
 
-📌 **Authored by:** *AnveMark Research Pvt. Ltd.*  
-📬 **Contact:** anvemark@gmail.com  
-🔗 **Website:** https://www.anvem.in/home 
-🔗 **LinkedIn:** https://www.linkedin.com/company/anvemark  
+## 📌 Authorship & Contact
+
+**Authored by:** *AnveMark Research Pvt. Ltd.*  
+**Email:** [anvemark@gmail.com](mailto:anvemark@gmail.com)  
+**Website:** [https://www.anvem.in/home](https://www.anvem.in/home)  
+**LinkedIn:** [https://www.linkedin.com/company/anvemark](https://www.linkedin.com/company/anvemark)
 
 
 
