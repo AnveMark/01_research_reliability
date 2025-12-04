@@ -107,7 +107,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 - Real retail product sold at **room temperature**
 - Taste degradation → liking drop → low repeat purchase
 
-✅ The test was internally valid (perceived liking under test conditions) —  
+✅ The test was internally valid (perceived liking under test conditions) -  
 ❌ but **not reliable** in predicting real-world behaviour under actual retail conditions.
 
 ---
@@ -142,7 +142,7 @@ The objective = **reducing avoidable error** so that insights remain stable acro
 ---
 
 ### ⭐ If This Helped You  
-If you found this article useful —  
+If you found this article useful -  
 **please leave a star ⭐ on this repository** - it motivates us to continue publishing **open‑source research knowledge for the global community**.
 
 ---
